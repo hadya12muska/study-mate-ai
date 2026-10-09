@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+StudyMate.AI
+Your personal AI-powered learning companion
+StudyMate.AI is an AI-powered learning platform designed to help learners study more effectively through personalized learning plans, level-appropriate lessons, practice activities, and progress-based learning.
+🔗 Live Demo (https://study-mate-ai-rosy-six.vercel.app/) | GitHub Repository (https://github.com/hadya12muska/study-mate-ai)
+Overview
+Everyone learns differently. StudyMate.AI aims to make learning more personalized by adapting the learning experience to a user’s goals, current knowledge, available study time, and progress.
+The project explores how AI can support a more structured and interactive learning journey.
+Key Features
+• Personalized Learning: Create a learning journey based on individual goals and skill levels.
+• Learning Roadmaps: Organize learning into a structured plan.
+• AI-Assisted Lessons: Generate explanations tailored to the learner’s level.
+• Practice and Quizzes: Support learning through exercises and knowledge checks.
+• Adaptive Learning: Use learner progress to guide subsequent learning activities.
+• Authentication: Integrate user authentication to support personalized learning experiences.
+Note: Feature availability depends on the current implementation. Some capabilities may still be under development.
+Technology Stack
+• Framework: Next.js
+• Frontend: React and TypeScript
+• Styling: Tailwind CSS
+• AI Integration: OpenRouter and OpenAI SDK
+• Authentication and Backend Services: Supabase
+• Deployment: Vercel
+• Version Control: Git and GitHub
+Getting Started
+Prerequisites
+• Node.js and npm
+• Git
+Installation
+1. Clone the repository:
+2. git clone https://github.com/hadya12muska/study-mate-ai.git
+3. Navigate to the project directory:
+4. cd study-mate-ai
+5. Install dependencies:
+6. npm install
+7. Configure the environment variables required by the project’s Supabase and AI integrations in a local .env.local file. Check the application configuration for the exact variable names.
+8. Start the development server:
+9. npm run dev
+10. Open http://localhost:3000 in your browser.
+Security: Never commit API keys, private credentials, or your .env.local file to GitHub.
+What I Learned
+This project has provided an opportunity to explore:
+• Building a web application with Next.js, React, and TypeScript.
+• Designing responsive user interfaces.
+• Integrating AI services into a web application.
+• Working with authentication and backend services.
+• Managing source code with Git and GitHub.
+• Deploying a web application with Vercel.
+Future Improvements
+• Expand personalized assessments and learning recommendations.
+• Improve progress tracking and learning analytics.
+• Enhance the quiz and practice experience.
+• Refine the user experience across mobile and desktop devices.
+Project Status
+StudyMate.AI is an ongoing personal web development project. Features and functionality may evolve as development continues.
+Author
+Hadya
+Computer science student interested in web development, AI-powered applications, and building practical digital solutions.
+GitHub Profile (https://github.com/hadya12muska)
