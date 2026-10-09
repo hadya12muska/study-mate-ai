@@ -27,15 +27,15 @@ Prerequisites
 • Git
 Installation
 1. Clone the repository:
-2. git clone https://github.com/hadya12muska/study-mate-ai.git
-3. Navigate to the project directory:
-4. cd study-mate-ai
-5. Install dependencies:
-6. npm install
-7. Configure the environment variables required by the project’s Supabase and AI integrations in a local .env.local file. Check the application configuration for the exact variable names.
-8. Start the development server:
-9. npm run dev
-10. Open http://localhost:3000 in your browser.
+ git clone https://github.com/hadya12muska/study-mate-ai.git
+2. Navigate to the project directory:
+ cd study-mate-ai
+3. Install dependencies:
+ npm install
+4. Configure the environment variables required by the project’s Supabase and AI integrations in a local .env.local file. Check the application configuration for the exact variable names.
+5. Start the development server:
+ npm run dev
+6. Open http://localhost:3000 in your browser.
 Security: Never commit API keys, private credentials, or your .env.local file to GitHub.
 What I Learned
 This project has provided an opportunity to explore:
