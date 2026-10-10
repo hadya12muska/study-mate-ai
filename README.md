@@ -16,16 +16,16 @@ StudyMate.AI aims to bring these elements together in one platform, helping lear
 
 ##  Key Features
 
-- ** Goal-Based Learning** — Define a learning goal and build a structured path toward achieving it.
-- ** Personalized Learning Plans** — Generate learning plans tailored to the student's goal, current level, preferences, and available study time.
-- ** Adaptive Assessments** — Use assessment questions to evaluate understanding and help identify an appropriate learning level.
-- ** AI-Assisted Learning** — Support the learning process with AI-powered guidance and learning activities.
-- ** Practice and Skill Development** — Reinforce understanding through practice and assessment.
-- ** Progress Tracking** — Follow learning progress and monitor movement toward learning goals.
-- ** Flexible Study Planning** — Organize learning around a student's schedule and preferred pace.
-- ** Personalized Experience** — Bring learning goals, preferences, assessments, and plans together in one experience.
+- Goal-Based Learning — Define a learning goal and build a structured path toward achieving it.
+-  Personalized Learning Plans — Generate learning plans tailored to the student's goal, current level, preferences, and available study time.
+-  Adaptive Assessments — Use assessment questions to evaluate understanding and help identify an appropriate learning level.
+-  AI-Assisted Learning — Support the learning process with AI-powered guidance and learning activities.
+-  Practice and Skill Development — Reinforce understanding through practice and assessment.
+-  Progress Tracking — Follow learning progress and monitor movement toward learning goals.
+-  Flexible Study Planning — Organize learning around a student's schedule and preferred pace.
+-  Personalized Experience — Bring learning goals, preferences, assessments, and plans together in one experience.
 
-*Feature availability may depend on the current implementation of the project.*
+Feature availability may depend on the current implementation of the project.
 
 ##  How It Works
 
