@@ -7,7 +7,11 @@ StudyMate.AI is an AI-powered learning platform designed to make learning more p
 The vision is simple: **make learning more effective by adapting the learning experience to the learner.**
 
 ---
+##  StudyMate.AI Homepage
 
+![StudyMate.AI Homepage](studymate-home.png)
+
+**An adaptive AI learning agent that helps students plan, learn, practice, and track progress.**
 ##  Why StudyMate.AI?
 
 Every student learns differently. Some need stronger foundations, others need challenging practice, and many need a clear plan to reach their goals.
